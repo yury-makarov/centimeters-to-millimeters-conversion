@@ -21,5 +21,6 @@
 <p>This project is licensed under the <a href="https://github.com/yury-makarov/centimeter-to-feet-converter/blob/main/LICENSE">Apache-2.0 license</a>.</p>
 <h2>See Also</h2>
 <ul>
- <li><a href="https://github.com/yury-makarov/feet-to-cm-converter">Feet to cm converter</a></li>  
+ <li><a href="https://github.com/yury-makarov/feet-to-cm-converter">Feet to cm converter</a></li>
+ <li><a href="https://github.com/yury-makarov/meter-to-cm-converter">Meter to cm converter</a></li>
 </ul>
