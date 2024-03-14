@@ -9,6 +9,7 @@
  <li>To perform a new conversion, click the "Reset" button to clear the input and output fields.</li>
     </ul>
 <p>You can also test the calculator on <a href="https://www.asutpp.com/cm-to-mm.html">my website</a>.</p>
+<h2>Screenshot</h2>
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
