@@ -17,4 +17,4 @@
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.</p>
 <h2>License</h2>
-<p></o>This project is licensed under the Apache-2.0 license.</p>
+<p>This project is licensed under the <a href="https://github.com/yury-makarov/centimeter-to-feet-converter/blob/main/LICENSE">Apache-2.0 license</a>.</p>
