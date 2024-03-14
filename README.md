@@ -11,6 +11,7 @@
 <p>You can also test the calculator on <a href="https://www.asutpp.com/cm-to-mm.html">my website</a>.</p>
 <h2>Screenshot</h2>
 <img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the centimeters to millimeters converter">
+Here is a screenshot of how the centimeters to millimeters converter works.
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
