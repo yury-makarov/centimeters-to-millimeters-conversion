@@ -23,5 +23,5 @@
 <ul>
  <li><a href="https://github.com/yury-makarov/feet-to-cm-converter">Feet to cm converter</a></li>
  <li><a href="https://github.com/yury-makarov/meter-to-cm-converter">Meter to cm converter</a></li>
- <li><a href="https://github.com/yury-makarov/meter-to-cm-converter">Cm to Meter Converter</a></li>
+ <li><a href="https://github.com/yury-makarov/cm-to-meter-converter">Cm to Meter Converter</a></li>
 </ul>
