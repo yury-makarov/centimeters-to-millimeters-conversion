@@ -8,7 +8,6 @@
  <li>The converted length in millimeters will be displayed in the output field labeled "Result in millimeters (mm)."</li>
  <li>To perform a new conversion, click the "Reset" button to clear the input and output fields.</li>
     </ul>
-<p>You can also test the calculator on <a href="https://www.asutpp.com/cm-to-mm.html">my website</a>.</p>
 <h2>Screenshot</h2>
 <p><img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the centimeters to millimeters converter"/></p>
 <p>Here is a screenshot of how the centimeters to millimeters converter works.</p>
